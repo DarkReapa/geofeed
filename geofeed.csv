@@ -47,6 +47,6 @@
 # Prefixes located at EU,,,,,
 2a0e:b107:2798::/46,FR,FR-75,Paris,75008,
 # Prefixes located at The Netherlands (Amsterdam),,,,,
-2a0f:cdc6:2034::/48,NL,NL-NH,Amsterdam,216024
-2a0f:cdc6:2033::/48,NL,NL-NH,Amsterdam,216024
+2a0f:cdc6:2034::/48,NL,NL-NH,Amsterdam,216024,
+2a0f:cdc6:2033::/48,NL,NL-NH,Amsterdam,216024,
 
