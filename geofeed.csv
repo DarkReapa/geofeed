@@ -36,6 +36,7 @@
 2a14:7583:a700::/40,RU,RU-MOW,Moscow,101000,
 2a14:7583:a600::/40,RU,RU-MOW,Moscow,101000,
 2a14:7583:a300::/40,RU,RU-MOW,Moscow,101000,
+2a14:7583:a200::/40,RU,RU-MOW,Moscow,101000,
 # Prefixes located at Latvia (Riga),,,,,
 2a0f:cdc6:2025::/48,LV,LV-RIX,Riga,LV-1001,
 # Prefixes located at Albania (Lushnje),,,,,
